@@ -180,6 +180,10 @@ curl http://localhost:5000/api/expenses
 ## Deployed Link
 https://expense-tracker-frontend-kudf.vercel.app/
 
+## Demo Video
+
+https://github.com/user-attachments/assets/2aba3fc4-5cd9-481b-a04e-2252f0c5ccb6
+
 ## Contributing
 
 1. Fork the repo and create a branch for your feature/fix.
