@@ -177,6 +177,9 @@ curl http://localhost:5000/api/expenses
 - Add E2E integration test that runs the backend and a headless browser to validate the upload → OCR → create expense flow.
 - Make the front-end API base URL configurable via environment variables to avoid editing source files for local testing.
 
+## Deployed Link
+https://expense-tracker-frontend-kudf.vercel.app/
+
 ## Contributing
 
 1. Fork the repo and create a branch for your feature/fix.
